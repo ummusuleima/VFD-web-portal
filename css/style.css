@@ -146,6 +146,13 @@ span, a, a:hover {
   /* background-image: url(../img/FAQ.jpeg); */
 }
 
+.bg-img2 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #e4e4e4;
+  /* background-image: url(../img/FAQ.jpeg); */
+}
+
 .bg-fixed {
   background-attachment: fixed;
 }
